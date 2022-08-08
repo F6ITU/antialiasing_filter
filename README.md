@@ -1,3 +1,7 @@
+Cerberus, a three path antialiasing filter for RF Software defined radio
+
+![Cerberus, the 2 RX, 1 TX 52 MHz low path antialiasing filter ](https://github.com/F6ITU/antialiasing_filter/blob/main/Pictures_schematic/Cerbere.jpg)
+
 Cerberus is a simple series of three 52 MHz low pass filters designed to eliminate the second Nyquist zone of any "bare foot" 
 baseband software defined HF transceiver. One filter is used in the Transmission path, two distinct filters could be used for 
 two different RX path.

@@ -167,7 +167,7 @@
       (net 2 "Net-(FL1001-Pad3)") (pinfunction "OUT") (pintype "passive") (tstamp 04cf2f2c-74bf-400d-b4f6-201720df00ed))
     (pad "4" smd rect (at 0 -1.5) (size 3.25 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (tstamp aeb03be9-98f0-43f6-9432-1bb35aa04bab))
-    (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Filter.3dshapes/Filter_Mini-Circuits_FV1206-1.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -294,7 +294,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp fc3d51c1-8b35-4da3-a742-0ebe104989d7))
     (pad "8" smd rect locked (at 0 -4.064 270) (size 1.778 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp dde8619c-5a8c-40eb-9845-65e6a654222d))
-    (model "C:/Users/marco/Documents/KiCad/Lib_Custom/modules/MCL RF_Filter/Mini-Circuits_GP1212.step"
+    (model "${KIPRJMOD}/lib/MCL RF_Filter.pretty/Mini-Circuits_GP1212.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -490,7 +490,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp c8293d21-1a69-42ed-92b0-4f3af4a14d47))
     (pad "8" smd rect locked (at 0 -4.064 270) (size 1.778 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp 238d17ee-78a7-4138-8b95-c10b225a8e62))
-    (model "C:/Users/marco/Documents/KiCad/Lib_Custom/modules/MCL RF_Filter/Mini-Circuits_GP1212.step"
+    (model "${KIPRJMOD}/lib/MCL RF_Filter.pretty/Mini-Circuits_GP1212.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -602,7 +602,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp 1095e07d-8c1c-40df-abaa-9cd930a13e62))
     (pad "8" smd rect locked (at 0 -4.064 270) (size 1.778 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp abc425ae-34db-440c-baf2-199506429483))
-    (model "C:/Users/marco/Documents/KiCad/Lib_Custom/modules/MCL RF_Filter/Mini-Circuits_GP1212.step"
+    (model "${KIPRJMOD}/lib/MCL RF_Filter.pretty/Mini-Circuits_GP1212.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -714,7 +714,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp 1e48966e-d29d-4521-8939-ec8ac570431d))
     (pad "8" smd rect locked (at 0 -4.064 270) (size 1.778 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "GND") (pintype "passive") (zone_connect 2) (tstamp bd9595a1-04f3-4fda-8f1b-e65ad874edd3))
-    (model "C:/Users/marco/Documents/KiCad/Lib_Custom/modules/MCL RF_Filter/Mini-Circuits_GP1212.step"
+    (model "${KIPRJMOD}/lib/MCL RF_Filter.pretty/Mini-Circuits_GP1212.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
