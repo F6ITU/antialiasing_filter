@@ -209,7 +209,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp a0dee8e6-f88a-4f05-aba0-bab3aafdf2bc))
     (pad "2" thru_hole circle locked (at 2.54 2.54) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp d7e5a060-eb57-4238-9312-26bc885fc97d))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -336,7 +336,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 6513181c-0a6a-4560-9a18-17450c36ae2a))
     (pad "2" thru_hole circle locked (at 2.54 -2.54 180) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp cf815d51-c956-4c5a-adde-c373cb025b07))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -405,7 +405,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 88002554-c459-46e5-8b22-6ea6fe07fd4c))
     (pad "2" thru_hole circle locked (at -2.54 2.54 180) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 8cdc8ef9-532e-4bf5-9998-7213b9e692a2))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -756,7 +756,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 9286cf02-1563-41d2-9931-c192c33bab31))
     (pad "2" thru_hole circle locked (at -2.54 -2.54 180) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 9b6bb172-1ac4-440a-ac75-c1917d9d59c7))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -825,7 +825,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 582622a2-fad4-4737-9a80-be9fffbba8ab))
     (pad "2" thru_hole circle locked (at 2.54 -2.54) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 9aaeec6e-84fe-4644-b0bc-5de24626ff48))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -867,7 +867,7 @@
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 90e761f6-1432-4f73-ad28-fa8869b7ec31))
     (pad "2" thru_hole circle locked (at 2.54 -2.54) (size 2.49936 2.49936) (drill 1.30048) (layers *.Cu *.Mask "F.SilkS")
       (net 3 "GND") (pinfunction "Ext") (pintype "passive") (tstamp b78cb2c1-ae4b-4d9b-acd8-d7fe342342f2))
-    (model "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
+    (model "${KIPRJMOD}/lib/SMA_PINS.pretty/packages3d/sma_90_r300.124.403.wrl"
       (offset (xyz 4.2 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))

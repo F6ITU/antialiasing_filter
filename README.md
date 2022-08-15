@@ -3,10 +3,10 @@ Cerberus, a three path antialiasing filter for RF Software defined radio
 ![Cerberus, the 2 RX, 1 TX 52 MHz low path antialiasing filter ](https://github.com/F6ITU/antialiasing_filter/blob/main/Pictures_schematic/Cerbere.jpg)
 
 Cerberus is a simple series of three 52 MHz low pass filters designed to eliminate the second Nyquist zone of any "bare foot" 
-baseband software defined HF transceiver. One filter is used in the Transmission path, two distinct filters could be used for 
+120 MSPS baseband software defined HF transceiver. One filter is used in the Transmission path, two distinct filters could be used for 
 two different RX path.
 
-A single LTCC filter is dedicated to the TX output able withstand up to 8W CW. It's rejection level is around 50 dB in the stopband area.
+A single LTCC filter is dedicated to the TX output able to withstand up to 8W CW. It's rejection level is around 50 dB in the stopband area.
 This filter should be  completed with a post-amplifier low pass filter. 
 
 Two RX path (for 2 separated ADCs) are based on a pair of cascaded RLP-50+ low pass filter offering a rejection of 50 dB each
