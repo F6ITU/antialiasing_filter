@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "RF_Filter")(type "Legacy")(uri "C:/Users/marco/Documents/KiCad/Projets/aliasing/lib/RF_Filter.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "RF_Filter")(type "Legacy")(uri "${KIPRJMOD}/lib/MCL RF_Filter/RF_Filter.lib")(options "")(descr ""))
 )
